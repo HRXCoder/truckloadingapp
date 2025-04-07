@@ -1,2 +1,0 @@
-# truckloadingapp
-using fractional knapsack
